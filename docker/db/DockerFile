@@ -1,0 +1,8 @@
+# versão do postgres
+FROM postgres:latest 
+
+#porta do banco
+EXPOSE 5432
+
+#comando para executar o postgres
+CMD ["postgres"]

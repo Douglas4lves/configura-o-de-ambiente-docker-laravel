@@ -1,0 +1,8 @@
+#versão do redis mais recente
+FROM redis:latest
+
+#utilizamos Redis para guardar informações temporarias
+
+
+
+
