@@ -1,6 +1,6 @@
 # 🚀 Configuração de Ambiente com Docker, Laravel, Postgres, NGINX e Redis
 
-Este projeto tem como objetivo criar um ambiente de desenvolvimento completo utilizando **Docker**, integrado com **Postgres**, **NGINX**, **Redis** e **Laravel**.  
+Esta anotação tem como objetivo registrar os arquivos para criação de um ambiente de desenvolvimento completo utilizando **Docker**, integrado com **Postgres**, **NGINX**, **Redis** e **Laravel**.  
 A configuração foi feita para simplificar o setup e permitir que todos os serviços rodem de forma isolada em containers, facilitando a manutenção e escalabilidade.
 
 ---
